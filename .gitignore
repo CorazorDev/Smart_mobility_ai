@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+models/*.onnx
+models/*.dat
+models/*.json
+requirements_temp.txt
